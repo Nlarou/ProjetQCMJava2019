@@ -4,7 +4,9 @@ This code was made for a 2 weeks project for my Java class at La Cité.
 
 The idea was to create a portal for a student and a professor. The professor can make exam with the questions and the student can take them.
 
-Now that i have more experience i know that the way was not the best. Like to change the language instead of iterating throungh all the child i should have put the instance in a array at creation. Instead of using the principalinterface class to do a lot a operation, using a static class to handle that would be more easier and better i think.
+# Lesson
+ - Separate logic layer from interface layer to make the code more simple and readable
+ - Optimisation by using more data structure
 
 
 # Author: Sonia Wang, Nathaniel Larouche.
